@@ -4,6 +4,7 @@ Lista de desenvolvedores do projeto
 Nome: Khalil
 Email: khalildbrito@gmail.com
 usuário git: @khalildebrito
+ano de nascimento: 2005
 Nome: Andrey
 Email: andreymarques958@gmail.com
 usuário git: @Andrey-Marques
